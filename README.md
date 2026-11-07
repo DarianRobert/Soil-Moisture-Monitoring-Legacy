@@ -44,6 +44,10 @@ The Arduino sketch, Raspberry Pi application source, database and raw trial logs
 
 To rebuild with a LaTeX installation: from `report/`, run `latexmk -pdf -jobname=Soil_Moisture_Report main.tex`.
 
+## My role
+
+I am one of the five credited authors of this UKZN team project. This portfolio copy presents our shared report, design and prototype evidence.
+
 ## Team
 
 Developed for **COMP717A: Contemporary Topics in Computer Science A**, University of KwaZulu-Natal, by **Keolin Naicker, Lokadi Naicker, Arjun Ramphal, Darian Robert and Ntethelelo Shabalala**.
