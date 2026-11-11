@@ -1,4 +1,6 @@
-# Soil Moisture Monitoring and Water Quantity Prediction
+# Soil Moisture Monitoring and Water Quantity Prediction — Legacy Documentation
+
+> **Earlier report-only copy.** The [current project repository](https://github.com/DarianRobert/Soil-Moisture-Monitoring) includes the Arduino firmware, Raspberry Pi dashboard, tests and original team history. This copy retains the earlier report and LaTeX source.
 
 A university team IoT prototype that connects a **Grove Moisture Sensor v1.4**, **Arduino Uno** and **Raspberry Pi 5** to a browser dashboard. It monitors soil conditions, estimates a water quantity for a selected target and records the response to measured watering.
 
